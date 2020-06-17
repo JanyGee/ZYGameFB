@@ -9,7 +9,7 @@
 #import "ZYGameFB.h"
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 #import <FBSDKLoginKit/FBSDKLoginKit.h>
-@import ZYWebGameKit;
+#import <ZYWebGameKit/ZYWebGameKit-Swift.h>
 
 @implementation ZYGameFB
 + (instancetype)shareFacebook{
